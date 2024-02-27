@@ -1,4 +1,3 @@
-```markdown
 # Resume Guru
 
 Resume Guru is an application designed to assist job seekers in optimizing their resumes using GEMINI AI [LLM]. It provides various features such as tailored evaluation, keyword analysis, ATS integration, and cover letter generation to streamline the job application process.
